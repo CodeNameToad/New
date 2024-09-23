@@ -1,0 +1,1 @@
+print("I am happy" if input("Did your boss let you go home? (yes/no): ").strip().lower() == "yes" else "I am sad")
